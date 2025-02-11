@@ -1,1 +1,72 @@
+html {
+  background-color: #3f3f3f;
+  color: rgb(220 220 240);
+  font-family: "confortaa light", verdana;
+  
+  
+}
+main h1 {
+  font-size: 90px;
+}
+h1 > p {
+  font-weight: lighter;
+}
+#title, #tribute-info {
+  text-align: center;
+  font-size: 20px;
+}
+#image{
+  
+  display: block; 
+  margin: auto;
+  border-radius: 5px;
+  max-width: 100%;
+  }
+  div~ img {
+      justify-content: cener;
+  }
+  #img-caption{
+    text-align: center;
+    font-size: 20px;
+    font-weight: lighter;
+    
+    
+  }
+  footer > p {
+text-align: center;
+font-weight:lighter;
+  }
+  section li {
+font-size: 20px;
+font-weight: lighter;
+  }
+footer {
+    font-size: 20px;
+font-weight: lighter;
+  }
+  body {
+    background-color: grey;
+    margin:30px;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  section p {
+    font-size: 20px;
+font-weight: lighter;
+margin-bottom: 15px;
+text-align: center;
+  }
+  ul {
+    margin-top:0;
+  }
+  #author {
+    text-align:right;
+    margin-top: 0;
+  }
+  #author-1 {
+    margin-bottom: 0;
+    font-style: italic;
 
+  }
+  
+ 
