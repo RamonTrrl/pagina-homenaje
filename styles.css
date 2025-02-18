@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color: #000000; /* Texto negro */
 }
 
 /* Estilos generales */
@@ -30,6 +31,7 @@ main {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  /*color: #000000; /* Texto negro */
 }
 
 h1 {
