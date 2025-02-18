@@ -2,14 +2,19 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-  color: #000000; /* Texto negro */
+  box-sizing: border-box; 
 }
 
 /* Estilos generales */
 html {
-  background-color: #3f3f3f;
+ /* background-color: #3f3f3f;
   color: rgb(220, 220, 240);
+  font-family: "Comfortaa Light", Verdana, sans-serif;*/  
+}
+/* Estilos generales */
+html {
+  background-color: #3f3f3f;
+  color: #cccccc; /* Gris claro */
   font-family: "Comfortaa Light", Verdana, sans-serif;
 }
 
@@ -31,7 +36,7 @@ main {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  /*color: #000000; /* Texto negro */
+  color: #000000; /* Texto negro */
 }
 
 h1 {
