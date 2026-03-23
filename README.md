@@ -6,9 +6,9 @@
 
 ## 📝 Descripción
 
-Proyecto de certificación de **freeCodeCamp** (Responsive Web Design). Se trata de una página de homenaje a un ser "más común y corriente que otros", presentada con un tono satírico y una línea de tiempo que recorre la vida (con omisiones intencionales) de una manera tan desconocida como el propio homenajeado.
+Este proyecto forma parte de mi certificación en **freeCodeCamp** sobre ***Responsive Web Design****. Se trata de una página de homenaje a un ser "más común y corriente que otros", presentada con un tono satírico y una línea de tiempo que recorre la vida (con omisiones intencionales) de una manera tan desconocida como el propio homenajeado.
 
-El proyecto cumple con los requisitos técnicos de freeCodeCamp mientras ofrece una reflexión humorística sobre lo ordinario, el aprendizaje digital tardío y la construcción de identidad en la era de los certificados.
+El proyecto cumple con los requisitos técnicos de freeCodeCamp al mismo tiempo que trato de hacer una reflexión humorística sobre lo ordinario, el aprendizaje digital tardío y la construcción de identidad en la era de los certificados digitales.
 
 Puedes ver la versión en vivo aquí:  
 👉 [https://ramontrrl.github.io/pagina-homenaje/](https://ramontrrl.github.io/pagina-homenaje/)
@@ -45,4 +45,4 @@ Este proyecto forma parte del currículo de **Responsive Web Design** de freeCod
 
 ---
 
-_Homenaje a lo ordinario, creado con humor y código como parte del aprendizaje en freeCodeCamp._
+_Homenaje a lo ordinario, creado con humor y código "</>"_
