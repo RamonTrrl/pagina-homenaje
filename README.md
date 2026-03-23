@@ -42,7 +42,6 @@ Puedes ver la versión en vivo aquí:
 ## 📌 Certificación
 
 Este proyecto forma parte del currículo de **Responsive Web Design** de freeCodeCamp.  
-Puedes ver mi progreso en: [Mi perfil de freeCodeCamp](https://www.freecodecamp.org/ramontrrl) *(ajusta el enlace si tienes)*
 
 ---
 
