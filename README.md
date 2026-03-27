@@ -19,7 +19,7 @@ Puedes ver la versión en vivo aquí:
 - ✅ Estructura semántica de HTML5
 - ✅ Estilos personalizados con CSS3
 - ✅ Contenido satírico y original
-- ✅ Línea de tiempo con humor y crítica social
+- ✅ Línea de tiempo con humor
 
 ## 🛠️ Tecnologías utilizadas
 
