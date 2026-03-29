@@ -9,7 +9,7 @@ _Un homenaje a lo ordinario, a lo común y corriente, creado con mucho humor😁
 
 Este proyecto forma parte de mi certificación en **freeCodeCamp** sobre ***Responsive Web Design****. Se trata de una página de homenaje a un ser "más común y corriente que otros", presentada con un tono satírico y una línea de tiempo que recorre la vida (con omisiones intencionales) de una manera tan desconocida como el propio homenajeado.
 
-El proyecto cumple (con las justas) con los requisitos técnicos de freeCodeCamp, al mismo tiempo que trato de hacer una reflexión (abundante y "rebuznante") con mi clásico sentido humorístico sobre lo ordinario, el aprendizaje digital a los "cincuentas" y la construcción de identidad en la era de los certificados digitales.
+El proyecto cumple (con las justas) con los requisitos técnicos de freeCodeCamp, al mismo tiempo que trato de hacer una reflexión (abundante y "rebuznante") con mi clásico sentido humorístico sobre lo ordinario, [el aprendizaje digital a los "cincuentas"](https://ramontrrl.github.io/HojaDeVida-Digital/) y la construcción de identidad en la era de los certificados digitales.
 
 Puedes ver la versión en vivo aquí:  
 👉 [https://ramontrrl.github.io/pagina-homenaje/](https://ramontrrl.github.io/pagina-homenaje/)
