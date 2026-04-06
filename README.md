@@ -1,4 +1,4 @@
-# 🎭 Página de homenaje – Un Hombre Extra"Ordinario": Sr. Desconocido
+#   <img src="https://raw.githubusercontent.com/RamonTrrl/RamonTrrl/main/avatar_guinandoSinFondo.webp" width="50" style="border-radius:50%; vertical-align:middle; margin-right:10px"/> Página de homenaje – Un Hombre Extra"Ordinario": Sr. Desconocido
 
 ## 📸 Vista previa
 
