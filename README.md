@@ -5,7 +5,7 @@
 ![Vista previa del homenaje](https://raw.githubusercontent.com/RamonTrrl/pagina-homenaje/main/foto%20papi%20churro%20vectorizada.jpeg)
 
 ## 📝 Descripción
-_Un homenaje a lo ordinario, a lo común y corriente, creado con mucho humor😁😂 y algo de código "</>"_
+_Un homenaje a lo ordinario, a lo común y corriente, creado con mucho humor y algo de código "</>"_😋😮
 
 Este proyecto forma parte de mi certificación en **freeCodeCamp** sobre ***Responsive Web Design****. Se trata de una página de homenaje a un ser "más común y corriente que otros", presentada con un tono satírico y una [línea de tiempo que recorre la vida (con omisiones intencionales) de una manera tan desconocida como el mismísimo "Sr. Desconocido"](https://cronicasdeilusos.blogspot.com/2022/02/marcos-67-2-24.html).
 
