@@ -34,11 +34,6 @@ Puedes ver la versión en vivo aquí:
 - [`styles.css`](https://github.com/RamonTrrl/pagina-homenaje/blob/main/styles.css) – Estilos visuales
 - [`foto papi churro vectorizada.jpeg`](https://github.com/RamonTrrl/pagina-homenaje/blob/main/foto%20papi%20churro%20vectorizada.jpeg) – Imagen decorativa
 
-## 🚀 Si quieres ver mi proyecto en tu PC sin depender de internet, descárgalo así y ábrelo
-
-1. Clona este repositorio:  
-   `git clone https://github.com/RamonTrrl/pagina-homenaje.git`
-2. Abre `index.html` en tu navegador ... y voilá 😋
 
 ## 📌 Certificación
 
