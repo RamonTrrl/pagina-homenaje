@@ -11,7 +11,7 @@ Este proyecto forma parte de mi certificación en **freeCodeCamp** sobre ***Resp
 
 El proyecto cumple (con las justas) con los requisitos técnicos de freeCodeCamp, al mismo tiempo que trato de hacer una reflexión (abundante y "rebuznante") con mi clásico sentido humorístico sobre lo ordinario, [el aprendizaje digital a los "cincuentas"](https://ramontrrl.github.io/HojaDeVida-Digital/) y la construcción de identidad en la era de los certificados digitales.
 
-Puedes ver la versión en vivo aquí:  
+Puedes ver la versión en vivo aquí, claro, si no tienes nada mejor que hacer:  
 👉 [https://ramontrrl.github.io/pagina-homenaje/](https://ramontrrl.github.io/pagina-homenaje/)
 
 ## ✨ Características
