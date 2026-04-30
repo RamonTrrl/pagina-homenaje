@@ -22,7 +22,9 @@ Puedes ver la versión en vivo aquí, claro, si no tienes nada mejor que hacer:
 - ✅ Contenido satírico y original
 - ✅ Línea de tiempo con humor
 
-## 🛠️ Tecnologías utilizadas
+##  <img src="https://raw.githubusercontent.com/RamonTrrl/pagina-homenaje/main/caja-herramientas.png" width="75"/>Tecnologías utilizadas
+
+
 
 - HTML5
 - CSS3
